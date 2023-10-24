@@ -1,10 +1,10 @@
-package com.example.gyakorlatibeadando;
+package urlap;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GyakorlatiBeadandoApplicationTests {
+class FoOsztalyTests {
 
     @Test
     void contextLoads() {
